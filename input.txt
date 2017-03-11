@@ -1,0 +1,5 @@
+Hello Shashank,
+ 
+Thank you for signing up for IBM Bluemix!
+Your 30-day trial is free, with no credit card required.
+You get access to 2 GB of runtime and container memory to run apps, unlimited IBM services and APIs, and complimentary support.
