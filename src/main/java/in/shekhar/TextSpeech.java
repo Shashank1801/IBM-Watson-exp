@@ -30,6 +30,7 @@ public class TextSpeech {
 
 		if (text != null && text.length() > 0) {
 			getAudioFile(ts, text);
+			System.out.println("File created");
 		} else {
 			System.out.println("NO TEXT TO CONVERT");
 		}
